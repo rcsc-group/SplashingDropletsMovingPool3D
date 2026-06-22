@@ -1,5 +1,3 @@
-# Moving Pool Impact
-
 This repository complements the open access publication available entitled [Fast droplet impact onto slowly moving deep pools](https://doi.org/10.1017/jfm.2026.11586), published in the *Journal of Fluid Mechanics* in June 2026. 
 
 ---
