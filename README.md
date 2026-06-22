@@ -27,7 +27,7 @@ Once the paper has been accepted for publication in a journal, this citation wil
   publisher={Cambridge University Press}
 }
 ```
-
+---
 ## License
 
 Distributed under the GPL-3.0 License. See `LICENSE` for more information.
